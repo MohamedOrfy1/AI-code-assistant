@@ -18,7 +18,7 @@ A local AI-powered code assistant that helps you understand, refactor, and docum
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/MohamedOrfy1/AI-code-assistant
 cd ai-code-assistant
 ```
 
